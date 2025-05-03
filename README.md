@@ -18,12 +18,12 @@ Origine : [El Gamal Fait 2/2](https://hackropole.fr/fr/challenges/crypto/fcsc202
 > http://localhost
 
 #### tentez 
-> nc el-gamal-fait-2.cyrhades.fr:4000
+> nc el-gamal-fait-2.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
